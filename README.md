@@ -1,7 +1,11 @@
 ### Hi there, I'm Max 👋
 
-![](https://komarev.com/ghpvc/?username=maxhvesser&color=blue)
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=maxhvesser&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhvesser&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+</p>
 
+![](https://komarev.com/ghpvc/?username=maxhvesser&color=blue)
 
 <!--
 **MaxHvesser/maxhvesser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
