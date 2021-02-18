@@ -2,7 +2,7 @@
 
 I'm a **Senior Android Developer** originally from the **UK**, currently living and working in **Oslo, Norway**. I'm passionate about Kotlin and Android, using Android since Jelly Bean. I am a talented, experienced problem solver and developer, with a user-experienced-based focus, enjoying creating the best UX experience I can.
 
-I have a strong Computer Science background that affords me the ability to work with a plethora of languages and allows me to adapt to unfamiliar and new environments. I have a very strong bias towards Kotlin and Java and I love contributing to mine and others' open source projects.
+I have a strong **Computer Science** background that affords me the ability to work with a plethora of languages and allows me to adapt to unfamiliar and new environments. I have a very strong bias towards **Kotlin** and **Java** and I love contributing to mine and others' open source projects.
 
 <img align="right" src="https://raw.githubusercontent.com/MaxHvesser/maxhvesser/main/avatar_working.png" width="200">
 
