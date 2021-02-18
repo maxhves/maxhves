@@ -6,10 +6,10 @@ I have a strong Computer Science background that affords me the ability to work 
 
 <img align="right" src="https://raw.githubusercontent.com/MaxHvesser/maxhvesser/main/avatar_working.png" width="200">
 
-#### Now
+#### Currently
 
-- 🔭 I’m currently working on [KotDoc](https://github.com/MaxHvesser/kotdoc-android)
-- 🌱 I’m currently learning [Compose](https://developer.android.com/jetpack/compose)
+- 🔭 I’m working on [KotDoc](https://github.com/MaxHvesser/kotdoc-android)
+- 🌱 I’m learning [Compose](https://developer.android.com/jetpack/compose)
 
 #### Bio 
 
