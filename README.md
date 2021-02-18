@@ -15,7 +15,7 @@ I have a strong **Computer Science** background that affords me the ability to w
 
 - 🏢 I work at [FINN.no](https://finn.no) as a Senior Android Developer
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/maximilian-hvesser-lewis-4730a91b4/) or by [email](mailto:maxhvesser@gmail.com)
-- 💬 Ping me about anything **Android**, **Kotlin** or **mobile app** realted
+- 💬 Ping me about anything **Android**, **Kotlin** or **mobile app** related
 
 <p align="left">
   <img src ="https://github-readme-stats.vercel.app/api?username=maxhvesser&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
