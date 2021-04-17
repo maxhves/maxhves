@@ -4,11 +4,11 @@ I'm a **Senior Android Developer** originally from the **UK**, currently living 
 
 I have a strong **Computer Science** background that affords me the ability to work with a plethora of languages and allows me to adapt to unfamiliar and new environments. I have a very strong bias towards **Kotlin** and **Java** and I love contributing to mine and others' open source projects.
 
-<img align="right" src="https://raw.githubusercontent.com/MaxHvesser/maxhvesser/main/avatar_working.png" width="200">
+<img align="right" src="https://raw.githubusercontent.com/maxhvesser/maxhvesser/main/avatar_working.png" width="200">
 
 #### Currently
 
-- 🔭 I’m working on [KotDoc](https://github.com/MaxHvesser/kotdoc-android)
+- 🔭 I’m working on [KotDoc](https://github.com/maxhvesser/kotdoc-android) and [Showroom](https://github.com/maxhvesser/showroom)
 - 🌱 I’m learning [Compose](https://developer.android.com/jetpack/compose)
 
 #### Bio 
