@@ -13,7 +13,7 @@ I have a strong **Computer Science** background that affords me the ability to w
 
 #### Bio 
 
-- 🏢 I work at [FINN.no](https://finn.no) as a Senior Android Developer
+- 🏢 I work at [Vipps](https://vipps.no) as a Senior Android Developer
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/maximilian-hvesser-lewis-4730a91b4/) or by [email](mailto:maxhvesser@gmail.com)
 - 💬 Ping me about anything **Android**, **Kotlin** or **Compose** related
 
