@@ -8,7 +8,7 @@ I have a strong **Computer Science** background that affords me the ability to w
 
 #### Currently
 
-- 🔭 I’m working on [KotDoc](https://github.com/maxhvesser/kotdoc-android), [Showroom](https://github.com/maxhvesser/showroom) and a secret project 👀 💬
+- 🔭 I’m working on [TwemojiIconsAndroid](https://github.com/maxhvesser/twemoji-icons-android), [Showroom](https://github.com/maxhvesser/showroom) and a secret project 👀 💬
 - 🌱 I’m learning [Compose](https://developer.android.com/jetpack/compose)
 
 #### Bio 
