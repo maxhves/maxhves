@@ -8,8 +8,8 @@ I have a strong **Computer Science** background that affords me the ability to w
 
 #### Currently
 
-- 🔭 I’m working on [TwemojiIconsAndroid](https://github.com/maxhvesser/twemoji-icons-android), [Showroom](https://github.com/maxhvesser/showroom) and a secret project 👀 💬
-- 🌱 I’m learning [Compose](https://developer.android.com/jetpack/compose)
+- 🔭 I’m working on overhauling my existing project [Swap](https://github.com/maxhvesser/swap-android), into Compose:  [SwapX](https://github.com/maxhvesser/swapx-android)
+- 🌱 I’m furthering my [Compose](https://developer.android.com/jetpack/compose) knowlege, to become a master of Compose
 
 #### Bio 
 
