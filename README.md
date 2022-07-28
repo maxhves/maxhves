@@ -1,8 +1,8 @@
 ### Hi there, I'm Max 👋
 
-I'm a **Senior Android Developer** originally from the **UK**, currently living and working in **Oslo, Norway**. As well as being passionate about Kotlin and Android, I am a talented, experienced problem solver and developer I have a clear user-experienced-based focus, enjoying creating the best UX experience I can. I strongly believe that solving the root cause to an issue is better than surpressing the symptoms.
+I'm a **Senior Android Developer** originally from the **UK**, currently living and working in **Oslo, Norway**. I am an experienced problem solver and app developer, focussing on creating the best user experiences possible, through brilliant mobile app functionality and design.
 
-I have a strong **Computer Science** background that affords me the ability to work with a plethora of languages and allows me to adapt to unfamiliar and new environments. I have a very strong bias towards **Kotlin** and **Java** and I love contributing to mine and others' open source projects.
+Constantly keeping up-to-date with the technologies I use allows me to be ahead of the curve and keep user experiences at their peak. I have excellent communication skills and work extremely well with briding the gap between product and technology.
 
 <img align="right" src="https://raw.githubusercontent.com/maxhvesser/maxhvesser/main/avatar_working.png" width="200">
 
