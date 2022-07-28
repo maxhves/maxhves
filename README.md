@@ -2,7 +2,7 @@
 
 I'm a **Senior Android Developer** originally from the **UK**, currently living and working in **Oslo, Norway**. I am an experienced problem solver and app developer, focussing on creating the best user experiences possible, through brilliant mobile app functionality and design.
 
-Constantly keeping up-to-date with the technologies I use allows me to be ahead of the curve and keep user experiences at their peak. I have excellent communication skills and work extremely well with briding the gap between product and technology.
+Constantly keeping up-to-date with the technologies I use allows me to be ahead of the curve and keep user experiences at their peak. I have excellent communication skills and work extremely well with bridging the gap between product and technology.
 
 <img align="right" src="https://raw.githubusercontent.com/maxhvesser/maxhvesser/main/avatar_working.png" width="200">
 
