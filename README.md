@@ -8,7 +8,7 @@ Constantly keeping up-to-date with the technologies I use allows me to be ahead 
 
 #### Currently
 
-- 🔭 I’m working on overhauling my existing project [Swap](https://github.com/maxhvesser/swap-android) -> [SwapX](https://github.com/maxhvesser/swapx-android) and I'm also working on another passion-project [MapFrame](https://github.com/maxhvesser/mapframe-android)
+- 🔭 I’m working on overhauling my existing project [Swap](https://github.com/maxhvesser/swap-android) -> [SwapX](https://github.com/maxhvesser/swapx-android)
 - 🌱 I’m furthering my [Compose](https://developer.android.com/jetpack/compose) knowlege, to become a master of Compose
 
 #### Bio 
