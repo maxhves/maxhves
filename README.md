@@ -1,8 +1,8 @@
 ### Hi there, I'm Max 👋
 
-I'm a **Senior Android Developer** originally from the **UK**, currently living and working in **Oslo, Norway**. I am an experienced problem solver and app developer, focussing on creating the best user experiences possible, through brilliant mobile app functionality and design.
+Based in Oslo, Norway, I am a Senior Android Developer originally from the UK, specializing in crafting top-notch mobile apps that offer seamless user experiences. My expertise lies in problem-solving and app development, and I take pride in delivering app functionality and design that exceed expectations.
 
-Constantly keeping up-to-date with the technologies I use allows me to be ahead of the curve and keep user experiences at their peak. I have excellent communication skills and work extremely well with bridging the gap between product and technology.
+I stay at the forefront of the ever-evolving tech landscape by continuously expanding my knowledge and skills, enabling me to create innovative solutions that meet the needs of today's mobile users. Along with my technical proficiency, I have exceptional communication skills, which enable me to effectively collaborate with product teams and bridge the gap between technology and business requirements.
 
 <img align="right" src="https://raw.githubusercontent.com/maxhvesser/maxhvesser/main/avatar_working.png" width="200">
 
