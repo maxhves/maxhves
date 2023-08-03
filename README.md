@@ -1,6 +1,6 @@
 ### Hi there, I'm Max 👋
 
-Based in Oslo, Norway, I am a Senior Android Developer originally from the UK, specializing in crafting top-notch mobile apps that offer seamless user experiences. My expertise lies in problem-solving and app development, and I take pride in delivering app functionality and design that exceed expectations.
+Based in Vancouver, Canada, I am a Senior Android Developer originally from the UK, specializing in crafting top-notch mobile apps that offer seamless user experiences. My expertise lies in problem-solving and app development, and I take pride in delivering app functionality and design that exceed expectations.
 
 I stay at the forefront of the ever-evolving tech landscape by continuously expanding my knowledge and skills, enabling me to create innovative solutions that meet the needs of today's mobile users. Along with my technical proficiency, I have exceptional communication skills, which enable me to effectively collaborate with product teams and bridge the gap between technology and business requirements.
 
