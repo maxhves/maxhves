@@ -1,6 +1,6 @@
 ### Hey there, I'm Max! 👋
 
-As a results-driven Senior Android Developer based in Vancouver, Canada, I specialize in crafting exceptional mobile experiences that seamlessly marry cutting-edge technology with flawless design. Originally from the UK, I bring a unique perspective to every project I tackle.
+As a results-driven Senior Android Developer based in Vancouver, Canada, I specialize in crafting exceptional mobile experiences that seamlessly marry cutting-edge technology with flawless design. Through my diverse experiences, I bring a unique perspective to every project I tackle.
 
 With a rich proficiency in Java and Kotlin, I've embarked on a journey of triumphs in problem-solving, transforming intricate challenges into elegant solutions that elevate app performance and user satisfaction. 
 
