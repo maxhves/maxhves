@@ -1,10 +1,10 @@
 ### Hey there, I'm Max! 👋
 
-As a results-driven Senior Android Developer based in Vancouver, Canada, I specialize in crafting exceptional mobile experiences that seamlessly marry cutting-edge technology with flawless design. Through my diverse experiences, I bring a unique perspective to every project I tackle.
+I'm an enthusiastic Senior Android Developer and Software Engineer based in Vancouver, Canada. I have had the opportunity to work physically in four different countries, each contributing uniquely to my diverse professional and personal experiences. My journey thus far, has not just broadened my technical skillset but also deepened my understanding of diverse market dynamics and user needs.
 
-With a rich proficiency in Java and Kotlin, I've embarked on a journey of triumphs in problem-solving, transforming intricate challenges into elegant solutions that elevate app performance and user satisfaction. 
+I thrive on challenges and consistently aim to elevate the projects I'm involved in. My passion for problem-solving is rooted in a philosophy that addressing the core issue is far more effective than just treating symptoms. This approach drives me to develop solutions that are not only robust and maintainable but also highly reusable, ensuring long-term value.
 
-Beyond coding, I possess the ability to bridge the gap between technology intricacies and overarching business goals. My outstanding communication skills allow me to integrate seamlessly with cross-functional teams, ensuring every technical innovation aligns with strategic objectives. Staying at the forefront of the Android development landscape is my compass. My relentless pursuit of knowledge equips me to design and develop innovative solutions that cater to the ever-evolving demands of modern mobile users.
+My toolkit is a blend of technical expertise, including advanced skills in mobile app development, and a keen understanding of the big picture in software development. I've enjoyed roles where collaboration and leadership were key, fostering environments that encourage innovation and excellence.
 
 <img align="right" src="https://raw.githubusercontent.com/maxhvesser/maxhvesser/main/avatar_working.png" width="200">
 
