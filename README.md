@@ -19,7 +19,16 @@ My toolkit is a blend of technical expertise, including advanced skills in mobil
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/maximilian-hvesser-lewis-4730a91b4/) or by [email](mailto:maxhvesser@gmail.com)
 
 <br/>
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=maxhvesser&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img align="top" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhvesser&layout=compact&hide_border=true&langs_count=10&theme=default">
-</p>
+<div align="left">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=maxhvesser&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=maxhvesser&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=maxhvesser&show_icons=true" />
+  </picture>
+</div>
