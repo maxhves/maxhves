@@ -1,6 +1,6 @@
 ### Hey there, I'm Max! 👋
 
-I'm an enthusiastic Senior Android Developer and Software Engineer based in Vancouver, Canada. I have had the opportunity to work physically in four different countries, each contributing uniquely to my diverse professional and personal experiences. My journey thus far, has not just broadened my technical skillset but also deepened my understanding of diverse market dynamics and user needs.
+I'm an enthusiastic Senior Software Engineer based in Vancouver, Canada. I have had the opportunity to work physically in four different countries, each contributing uniquely to my diverse professional and personal experiences. My journey thus far, has not just broadened my technical skillset but also deepened my understanding of diverse market dynamics and user needs.
 
 I thrive on challenges and consistently aim to elevate the projects I'm involved in. My passion for problem-solving is rooted in a philosophy that addressing the core issue is far more effective than just treating symptoms. This approach drives me to develop solutions that are not only robust and maintainable but also highly reusable, ensuring long-term value.
 
