@@ -1,10 +1,12 @@
-### Hey there, I'm Max! 👋
+### Hey there, I'm Maximilian! 👋
 
-I'm an enthusiastic Senior Software Engineer based in Vancouver, Canada. I have had the opportunity to work physically in four different countries, each contributing uniquely to my diverse professional and personal experiences. My journey thus far, has not just broadened my technical skillset but also deepened my understanding of diverse market dynamics and user needs.
+I love to build solutions to problems and as a very observant person, I am always able to create detailed and intuitive solutions that truly cater to the needs of the user.
 
-I thrive on challenges and consistently aim to elevate the projects I'm involved in. My passion for problem-solving is rooted in a philosophy that addressing the core issue is far more effective than just treating symptoms. This approach drives me to develop solutions that are not only robust and maintainable but also highly reusable, ensuring long-term value.
+I have been working as a Software Engineer in a professional capacity for 8 years, and throughout that time I have amassed a diverse set of technical skills. 
 
-My toolkit is a blend of technical expertise, including advanced skills in mobile app development, and a keen understanding of the big picture in software development. I've enjoyed roles where collaboration and leadership were key, fostering environments that encourage innovation and excellence.
+Predominantly my experience has been in the realm of native mobile applications, more specifically, Android applications, however through my own interest and personal projects, I have gained experience in creating solutions that span the entire full stack.
+
+Seeing the impact of the work that I do is a great motivator for me, and I thoroughly enjoy receiving feedback from customers that help to grow and improve the product. Working with meaningful and impactful projects is something that I am always on the lookout for.
 
 <img align="right" src="https://raw.githubusercontent.com/maxhvesser/maxhvesser/main/avatar_working.png" width="200">
 
@@ -16,7 +18,7 @@ My toolkit is a blend of technical expertise, including advanced skills in mobil
 #### Bio 
 
 - 🏢 I work at [Vipps MobilePay](https://vipps.no) as a Senior Android Developer
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/maximilian-hvesser-lewis-4730a91b4/) or by [email](mailto:maxhvesser@gmail.com)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/maximilian-hvesser-lewis-4730a91b4/) or by [email](mailto:max@hvesserlewis.com)
 
 <br/>
 <div align="left">
