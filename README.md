@@ -11,4 +11,4 @@ Outside of development, I love to keep fit, and I am a very keen traveller. To d
 
 &nbsp;
 
-To get in touch, visit my personal site, or send me an email directly at [max@hvesserlewis.com](mailto:max@hvesserlewis.com)
+To get in touch, visit my [personal site](https://www.hvesserlewis.com), or send me an email directly at [max@hvesserlewis.com](mailto:max@hvesserlewis.com)
