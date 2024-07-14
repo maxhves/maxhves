@@ -1,4 +1,4 @@
-### Hey, I'm Maximilian
+### Hi, I'm Maximilian.
 
 With seven years as a Software Engineer, I've developed full-stack skills in mobile and web applications. I excel in problem-solving, and have extensive experience with various programming languages and frameworks.
 
