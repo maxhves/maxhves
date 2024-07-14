@@ -1,14 +1,9 @@
 ### Hey, I'm Maximilian
 
-I have been working as a Software Engineer full-time for seven years, during which I have developed a diverse set of skills and strong problem-solving abilities.
+With seven years as a Software Engineer, I've developed full-stack skills in mobile and web applications. I excel in problem-solving, and have extensive experience with various programming languages and frameworks.
 
-My primary experience lies in developing native mobile applications, specifically for Android. However, my personal projects and endeavors have given me a comprehensive understanding of the entire stack, along with a keen eye for design.
+My primary expertise lies in developing native Android applications with Kotlin utilizing the latest Android technology stack in an enterprise setting, including Jetpack Compose, Android Architecture components, and Kotlin Coroutines.
 
-I am passionate about working on meaningful projects and witnessing the positive impact my work has on users and customers.
+I have strong communication skills and take a proactive role in project discussions, driven by a passion for delivering measurable results and optimal solutions.
 
-Outside of development, I enjoy staying fit and am an avid traveler. I have visited over twenty countries and have lived in five different countries.
-&nbsp;
-
-&nbsp;
-
-To get in touch, visit my [personal site](https://www.hvesserlewis.com), or send me an email directly at [max@hvesserlewis.com](mailto:max@hvesserlewis.com)
+<sub>To get in touch, visit my [personal site](https://www.hvesserlewis.com), or send me an email directly at [max@hvesserlewis.com](mailto:max@hvesserlewis.com)</sub>
